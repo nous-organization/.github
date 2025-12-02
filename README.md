@@ -2,10 +2,8 @@
   <img src="https://github.com/nous-organization/.github/blob/main/logo-universal.png" alt="Nous Logo" width="220">
 </p>
 
-# Nous
+# Nous 
 > The open, decentralized platform for news, truth, and collective intelligence.
-
----
 
 ## 🌍 What is Nous?
 
@@ -15,9 +13,8 @@ We unite **engineers, journalists, analysts, designers, researchers, and citizen
 Our mission:  
 > **Build the most trustworthy, intelligent, and participatory news ecosystem in the world.**
 
----
 
-## 🧠 Why Nous?
+## Why Nous?
 
 Modern news is broken:
 - centralized
@@ -33,7 +30,6 @@ Nous flips that structure:
 - **Transparent algorithms**  
 - **No ads. No tracking. No paywalls.**
 
----
 
 ## 🛠️ Projects (Early)
 
@@ -44,8 +40,6 @@ Nous flips that structure:
 | **📝 Nous Journal** | Tools for contributors, reporters, and observers to publish verifiable stories. |
 | **🌐 Nous Frontend** | Web app + mobile interface for reading, contributing, and community participation. |
 | **📦 Nous Data Lake** | Open data for world events, news, claims, and cross-media analysis. |
-
----
 
 ## 🤝 How to Contribute
 
@@ -74,21 +68,17 @@ We welcome contributors of all backgrounds:
 If you want to help shape the platform:
 
 - [**Join the waitlist**](https://nous.shmaplex.com)
-- **Open an issue**
-- **Submit a proposal**
+- [**Start a discussion**](https://github.com/orgs/nous-organization/discussions/new/choose)
+- [**Open an issue**](https://github.com/nous-organization/.github/issues/new)
 
----
-
-## 🧭 Organization Structure
+## Organization Structure
 
 Nous is structured as:
 - A **public-benefit open-source project**
 - A **global network of volunteers & contributors**
 - A future **nonprofit/collective arm** for governance
 
----
-
-## 📜 Code of Conduct
+## Code of Conduct
 
 We expect contributors to uphold:
 - Respect  
@@ -98,9 +88,8 @@ We expect contributors to uphold:
 
 Read the full **CODE_OF_CONDUCT.md** (coming soon).
 
----
 
-## 🌟 Vision
+## Vision
 
 To build a news system:
 - owned by the people  
@@ -108,8 +97,6 @@ To build a news system:
 - resistant to manipulation  
 - globally accessible  
 - and forever open  
-
----
 
 ## 💬 Join Us
 
