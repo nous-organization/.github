@@ -35,11 +35,11 @@ Nous flips that structure:
 
 | Project | Description |
 |--------|-------------|
-| **Nous Core** | The core protocol for decentralized news distribution + identity. |
-| **Nous Analyzer** | Pipelines for AI-assisted verification, cognitive bias detection, and fact scoring. |
-| **Nous Journal** | Tools for contributors, reporters, and observers to publish verifiable stories. |
-| [**Nous Frontend**](https://github.com/shmaplex/nous-web] | Web app + mobile interface for reading, contributing, and community participation. |
-| **Nous Data Lake** | Open data for world events, news, claims, and cross-media analysis. |
+| [Nous App](https://github.com/shmaplex/nous) | The core app for decentralized news distribution + identity. |
+| [Nous Frontend](https://github.com/shmaplex/nous-web) | Web app + mobile interface for reading, contributing, and community participation. |
+| Nous Analyzer | Pipelines for AI-assisted verification, cognitive bias detection, and fact scoring. |
+| Nous Journal | Tools for contributors, reporters, and observers to publish verifiable stories. |
+| Nous Data Lake | Open data for world events, news, claims, and cross-media analysis. |
 
 ## 🤝 How to Contribute
 
