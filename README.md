@@ -5,7 +5,7 @@
 # Nous 
 > The open, decentralized platform for news, truth, and collective intelligence.
 
-## 🌍 What is Nous?
+## What is Nous?
 
 Nous is a global, community-powered project building the future of news.  
 We unite **engineers, journalists, analysts, designers, researchers, and citizens** to create a platform that promotes transparency, accountability, and open access to information.
