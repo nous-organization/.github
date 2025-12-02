@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/nous-organization/.github/blob/main/logo-universal.png" alt="Nous Logo" width="220">
-</p>
 
-# Nous 
+<img src="https://github.com/nous-organization/.github/blob/main/logo-universal.png" alt="Nous Logo" width="100" />
+<img src="https://github.com/nous-organization/.github/blob/main/profile/nous-brand-logo.png" alt="Nous" width="80" />
+
 > The open, decentralized platform for news, truth, and collective intelligence.
 
 ## What is Nous?
