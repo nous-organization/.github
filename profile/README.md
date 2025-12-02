@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/profile/logo-universal.png" alt="Nous Logo" width="220">
+  <img src="https://github.com/nous-organization/.github/blob/main/profile/logo-universal.png" alt="Nous Logo" width="220">
 </p>
 
 # Nous
