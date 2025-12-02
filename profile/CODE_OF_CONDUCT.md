@@ -1,4 +1,6 @@
-# Nous Code of Conduct
+<img src="https://github.com/nous-organization/.github/blob/main/profile/nous-brand-logo.png" alt="Nous" width="220" />
+
+# Code of Conduct
 
 Like the technical community as a whole, the Nous team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
